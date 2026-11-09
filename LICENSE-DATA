@@ -1,0 +1,20 @@
+Infrastructure Index - published index data (Output_Data/)
+
+Copyright (c) 2026 Vignawou Lucien Ahouangbe
+
+The index data in Output_Data/ are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+Full legal code: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by-nc/4.0/
+
+You are free to share and adapt the data for non-commercial purposes,
+provided you give appropriate credit (see CITATION.cff),
+provide a link to the license, and indicate if changes were made.
+
+The index includes a component derived from World Economic Forum data, which is
+subject to non-commercial terms; this is why commercial use is not granted.
+The source data used to build the index remain subject to the terms of their
+original providers (World Bank WDI and LPI, UNCTAD, World Economic Forum).
+This license applies only to the index produced here.
+
+The code in Scripts/ is licensed separately under the MIT License (see LICENSE).

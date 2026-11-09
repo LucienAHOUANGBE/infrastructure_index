@@ -1,0 +1,22 @@
+# Stata
+*.log
+*.smcl
+*.gph
+*.tmp
+*.dta~
+*.stswp
+stata.trk
+
+# Office / OS
+~$*
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Données sources : seuls le README, WDI et LPI sont publiés
+Input_Data/*
+!Input_Data/README.md
+!Input_Data/WDI_Infrastructure.xlsx
+!Input_Data/WB_LPI_WIDEF.csv
+docs/Methode.docx
+Scripts/InfrastructureIndex.do

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this index, please cite it as below."
+title: "Infrastructure Index"
+version: 1.0.0
+date-released: "2026-11-09"
+type: dataset
+license:
+  - MIT
+  - CC-BY-NC-4.0
+authors:
+  - family-names: Ahouangbe
+    given-names: Vignawou Lucien
+    affiliation: "CRESE; ETC"
+abstract: >-
+  Composite country-year index of infrastructure (transport, digital and
+  utility dimensions), 2006-2021, built from WDI, WEF and World Bank LPI data.
+keywords:
+  - infrastructure
+  - composite index
+  - development economics
+repository-code: "https://github.com/LucienAHOUANGBE/infrastructure_index"
