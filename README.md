@@ -56,7 +56,7 @@ Liens de téléchargement et dates des fichiers : voir `Input_Data/README.md`. T
 
 ## Articles utilisant cet indice
 
-- Ahouangbe, V. L., Kruse, H. W., Núñez, T., Turcu, C. *Paving the Way for Extraction: Development Aid Secures Natural Resources*. Comparative Economic Studies (à paraître). [ordre des auteurs et statut à confirmer]
+- Ahouangbe, V. L., Kruse, H. W., Núñez, T., Turcu, C. *Paving the Way for Extraction: Development Aid Secures Natural Resources*. Comparative Economic Studies (à paraître).
 
 ## Citation
 
